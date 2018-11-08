@@ -74,7 +74,7 @@ char sliderValueStr[5];
 
 /* WiFi config */
 const char *ssid = "GL-MT300N";
-const char* pass = "0717640717";
+const char* pass = "******";
 // we'll try to fall back to connecting directly to the colorchord AP, since it will revert to AP mode if it can't connect to the above
 const char *esp_ssid = "ESP_451800";
 /* END WiFi config stuff */
